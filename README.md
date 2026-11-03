@@ -60,7 +60,7 @@ Windows（PowerShell）：
 git clone https://github.com/lansike/lansike-quai-ai-wei.git "$env:USERPROFILE\.claude\skills\lansike-quai-ai-wei"
 ```
 
-换成 Cursor，就把 `.claude` 换成 `.cursor`。没装 git 的话，在 GitHub 页面点 Code → Download ZIP，解压后把里面那层含 `SKILL.md` 的文件夹放进去。
+换成 Cursor，就把 `.claude` 换成 `.cursor`。没装 git 的话，在 GitHub 页面点 Code → Download ZIP，解压后把里面那层含 `SKILL.md` 的文件夹放进去。解压出来的文件夹名会带「-main」（如 `lansike-quai-ai-wei-main`），这是 GitHub 自动加的，正常；放进去后把文件夹改名为 `lansike-quai-ai-wei` 即可。
 
 目录依据（官方文档）：[Claude Code · Skills](https://code.claude.com/docs/en/skills)、[Cursor · Agent Skills](https://cursor.com/docs/context/skills)、[WorkBuddy · 技能](https://www.workbuddy.ai/docs/zh/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market)。
 
